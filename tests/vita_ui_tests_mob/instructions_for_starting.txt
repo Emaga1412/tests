@@ -1,0 +1,24 @@
+Запускаем андройд студию
+Запускаем эмулятор
+Переходим в Pycharm
+
+вводим adb devices
+Должен написать что - то типа
+List of devices attached
+emulator-5554   device
+
+Также можно посмотреть, что за устройство конкретно, если в скрипте захочу поменять
+emulator -list-avds
+придет прям названия девайсов
+
+
+чтоб запустить эмулятор в ручную, надо в терминале написать
+emulator -avd Pixel_4_API_33
+
+
+Чтоб получить инфу о  "platformVersion": "13.0" можно в эмуле прям тыкнуться в настройки
+Чтоб инфу получить для полей
+"appPackage": "com.platfomni.vita.dev",  # Пакет твоего приложения
+    "appActivity": "com.platfomni.vita.ui.splash.SplashActivity",  # Активити твоего приложения
+нужно в терминале логи дернуть и запустить прило
+adb logcat | Select-String "ActivityManager"
