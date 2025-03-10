@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Ожидаемый результат: В корзине отображается товар в количестве, которое мы добавили","32060","Тест добавления товара в корзину на сайте VitaExpress","Tests.VitaUITestsWEB","Wed Feb 12 06:46:20 SAMT 2025","passed","Wed Feb 12 06:46:52 SAMT 2025","","Test_add_in_cart","",""
-"Ожидаем увидеть кнопку подтвердить для кода авторизации","30922","Авторизация пользователя. Получение кода авторизации","Tests.VitaUITestsWEB","Wed Feb 12 06:46:52 SAMT 2025","broken","Wed Feb 12 06:47:23 SAMT 2025","","Test_auth","",""
-"Ожидаемый результат: Выбранный город отображается в шапке сайта","31083","Смена города пользователя  на главном экране","Tests.VitaUITestsWEB","Wed Feb 12 06:47:23 SAMT 2025","broken","Wed Feb 12 06:47:54 SAMT 2025","","Test_selected_city","",""

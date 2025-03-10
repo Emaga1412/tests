@@ -13,3 +13,5 @@ __pycache__/
 
 # Игнорировать папочку node_modules
 /node_modules
+/.idea
+/allure-results

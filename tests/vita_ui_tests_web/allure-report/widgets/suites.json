@@ -1,1 +1,1 @@
-{"total":3,"items":[{"uid":"f7ae4064db8220ca6ed587c8c1ddf3c2","name":"Tests.VitaUITestsWEB","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}}]}
+{"total":4,"items":[{"uid":"19b818ff5670b2224719bf47affcb685","name":"tests.vita_ui_tests_web","statistic":{"failed":0,"broken":1,"skipped":0,"passed":3,"unknown":0,"total":4}},{"uid":"f7ae4064db8220ca6ed587c8c1ddf3c2","name":"Tests.VitaUITestsWEB","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}}]}
