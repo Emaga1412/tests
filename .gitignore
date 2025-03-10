@@ -11,5 +11,5 @@ __pycache__/
 *.log
 *.tmp
 
-# Игнорировать папку node_modules
-node_modules/
+# Игнорировать папочку node_modules
+/node_modules
